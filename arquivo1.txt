@@ -1,4 +1,0 @@
-uma linha no arquivo
-batata
-git checkout -b 
-+
